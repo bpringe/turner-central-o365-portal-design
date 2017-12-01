@@ -1,0 +1,27 @@
+/* .tig-menu-header {
+  background-color: #7a7a7a;
+  color: #ffffff;
+  border-bottom: 1px solid black;
+  margin-left: -10px;
+  border-radius: 10px;
+} */
+
+/* .tig-menu-header {
+  background-color: #7a7a7a;
+  color: #ffffff;
+  border-bottom: 1px solid black;
+  margin-left: -10px;
+  border-radius: 10px;
+} */
+
+.tig-menu-header {
+  font-weight: bold;
+  margin-top: 5px;
+  text-decoration: underline;
+  padding-left: 15px;
+}
+
+/* .tig-menu-header:hover {
+  background-color: #7a7a7a;
+  color: #ffffff;
+} */
