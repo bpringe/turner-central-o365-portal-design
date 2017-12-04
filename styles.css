@@ -50,3 +50,7 @@
 .btn {
   border-radius: 0;
 }
+
+.dropdown-menu {
+  font-size: 0.95rem;
+}
