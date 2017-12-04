@@ -2,12 +2,12 @@
   background-color: rgb(0,87,60);
   color: #ffffff;
   border-bottom: 1px solid black;
+  margin-top: 10px;
 }
 
 .tig-menu-header:hover {
   background-color: rgb(0,87,60);
   color: #ffffff;
-  margin-top: 10px;
 }
 
 .tig-navbar {
@@ -54,4 +54,6 @@
 
 .dropdown-menu {
   font-size: 0.95rem;
+  padding: 0;
+  border-radius: 0;
 }
